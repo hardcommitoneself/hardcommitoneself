@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have been currently working on http://getstudy.uk/ as a frontend guy.
+
 <!--
 **hardcommitoneself/hardcommitoneself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
